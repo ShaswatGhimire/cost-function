@@ -8,3 +8,6 @@ Dataset for this file:
 for Linear regression and MSE : 
 https://www.kaggle.com/datasets/tanuprabhu/linear-regression-dataset
 
+for logistic regression and binary cross entropy:
+https://www.kaggle.com/datasets/dragonheir/logistic-regression
+
